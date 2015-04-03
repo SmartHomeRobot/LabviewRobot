@@ -1,4 +1,4 @@
 # LabviewRobot
 LabviewRobot
 
-kinect + Radar
+kinect + LiDAR
